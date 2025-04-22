@@ -297,6 +297,15 @@
   },
   "active": "bee9debd39c143c2",
   "lastOpenFiles": [
+    "Japanese/Adverb.md",
+    "Japanese/Sentence structure.md",
+    "Japanese/Particle No.md",
+    "Japanese/Desu (da) and imas (iru).md",
+    "Japanese/Particle Wa.md",
+    "Japanese/Kono and Kore.md",
+    "Japanese/Nouns and pronouns.md",
+    "Japanese/Particle Wo (o).md",
+    "Japanese",
     "Docker Commands.md",
     "Pacman.md",
     "Terraform architecture.md",
@@ -315,11 +324,7 @@
     "JoinPoint.md",
     "Advice.md",
     "Repository in spring boot.md",
-    "Controller-Service-Repository architecture.md",
-    "Templates/Note 1.md",
-    "Repository pattern.md",
     "Templates",
-    "Welcome.md",
     "desktop.ini"
   ]
 }
