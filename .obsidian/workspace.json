@@ -1,0 +1,325 @@
+{
+  "main": {
+    "id": "e1a760dda5c274e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "76cfcc9054b13ebf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e30c3fd31c396784",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker Commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker Commands"
+            }
+          },
+          {
+            "id": "2da4e39f49604bb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kubernetes commands"
+            }
+          },
+          {
+            "id": "370515feff59ac11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker Commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker Commands"
+            }
+          },
+          {
+            "id": "95cdb57bc9fb83b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kubernetes commands"
+            }
+          },
+          {
+            "id": "797946dded774d23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terraform architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Terraform architecture"
+            }
+          },
+          {
+            "id": "6cc573fef59709bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker Commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker Commands"
+            }
+          },
+          {
+            "id": "bee9debd39c143c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pacman.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pacman"
+            }
+          },
+          {
+            "id": "b19731ee7670b756",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "xrandr.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "xrandr"
+            }
+          },
+          {
+            "id": "5fbbe6b3c2f41cc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "xrandr.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "xrandr"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9c4dbef2d39906a",
+    "type": "split",
+    "children": [
+      {
+        "id": "41f31ac38bbdafac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3aa2036f3e11211",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "41dfa74f196d2d29",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "docker",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0e36719b8b28fe49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Advice"
+            }
+          },
+          {
+            "id": "bd60797daafb5a95",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b1739f7c87a8014b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4e11bbe073fffe6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c241c5cdae72eb9f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/Note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Note"
+            }
+          },
+          {
+            "id": "fc84aacdfce32f24",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/Note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Note"
+            }
+          },
+          {
+            "id": "099c4694d59e6238",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9a2907909b83a4d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/Note.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Note"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bee9debd39c143c2",
+  "lastOpenFiles": [
+    "Docker Commands.md",
+    "Pacman.md",
+    "Terraform architecture.md",
+    "Dockerfile.md",
+    "Kubernetes commands.md",
+    "Estimations.md",
+    "Constraint Validators.md",
+    "Certificate chain validation.md",
+    "xrandr.md",
+    "Helm.md",
+    "Kubernetes Service.md",
+    "Aspect-oriented-programming.md",
+    "Cross-cutting-concern.md",
+    "Templates/Note.md",
+    "Pointcut.md",
+    "JoinPoint.md",
+    "Advice.md",
+    "Repository in spring boot.md",
+    "Controller-Service-Repository architecture.md",
+    "Templates/Note 1.md",
+    "Repository pattern.md",
+    "Templates",
+    "Welcome.md",
+    "desktop.ini"
+  ]
+}
