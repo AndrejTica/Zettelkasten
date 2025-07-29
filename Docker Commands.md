@@ -64,5 +64,16 @@ Get docker container IP:
 ```
 docker inspect -f '{{range.NetworkSettings.Networks}}{{.IPAddress}}{{end}}' container_name_or_id
 ```
+
+Login to a remote artifactory:
+```
+echo "$EDM_ADMIN_PWD" | docker login --username ${EDM_ADMIN_USER} --password-stdin docker.porscheinformatik.com
+```
+
+Tag a docker container
+```
+docker tag testing-image:latest artifactory.porscheinformatik.com/docker-all/edm/testing-image:latest
+```
+
 ### References
 
