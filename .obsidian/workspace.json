@@ -8,189 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e30c3fd31c396784",
+            "id": "bf38ccaecd8a269b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker Commands.md",
+                "file": "Resource accessibility.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker Commands"
+              "title": "Resource accessibility"
             }
           },
           {
-            "id": "2da4e39f49604bb3",
+            "id": "7c7398bf493acd95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes commands.md",
+                "file": "Transparency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kubernetes commands"
+              "title": "Transparency"
             }
           },
           {
-            "id": "370515feff59ac11",
+            "id": "be2278a55a8d631f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker Commands.md",
+                "file": "Euclids lemma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker Commands"
+              "title": "Euclids lemma"
             }
           },
           {
-            "id": "95cdb57bc9fb83b1",
+            "id": "1448968dee912394",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes commands.md",
+                "file": "XRAY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kubernetes commands"
+              "title": "XRAY"
             }
           },
           {
-            "id": "797946dded774d23",
+            "id": "706dfce259e15e2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terraform architecture.md",
+                "file": "Mathematical notation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terraform architecture"
+              "title": "Mathematical notation"
             }
           },
           {
-            "id": "6cc573fef59709bc",
+            "id": "c008d3b8343ce726",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker Commands.md",
+                "file": "Euclids lemma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker Commands"
-            }
-          },
-          {
-            "id": "f3515de8e904d0ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kubernetes commands"
-            }
-          },
-          {
-            "id": "be59d82ae22304e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker Commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Docker Commands"
-            }
-          },
-          {
-            "id": "a4ea4446628feb2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pacman.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pacman"
-            }
-          },
-          {
-            "id": "6801f9ca5cb5a378",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker Commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Docker Commands"
-            }
-          },
-          {
-            "id": "bee9debd39c143c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes Service.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kubernetes Service"
-            }
-          },
-          {
-            "id": "b19731ee7670b756",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "xrandr.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "xrandr"
-            }
-          },
-          {
-            "id": "5fbbe6b3c2f41cc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "xrandr.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "xrandr"
+              "title": "Euclids lemma"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -343,6 +245,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -351,35 +254,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6801f9ca5cb5a378",
+  "active": "be2278a55a8d631f",
   "lastOpenFiles": [
-    "Dockerfile.md",
-    "Constraint Validators.md",
-    "Certificate chain validation.md",
-    "Aspect-oriented-programming.md",
-    "Terraform architecture.md",
-    "xrandr.md",
-    "Mirrors.md",
-    "Pacman.md",
-    "Estimations.md",
-    "Python packages.md",
-    "Kubernetes commands.md",
+    "Fault tolerance.md",
+    "Transparency.md",
+    "XRAY.md",
+    "Mathematical notation.md",
+    "Euclids lemma.md",
+    "Congruence.md",
+    "Dirichlet's theorem.md",
+    "Prime Numbers.md",
+    "Perfect numbers.md",
+    "Mersenne primes.md",
+    "Threads.md",
+    "Threads in distributed systems.md",
     "Docker Commands.md",
-    "Maven .m2.md",
-    "Kubernetes DNS.md",
-    "Kubernetes architecture.md",
+    "Openness.md",
+    "xrandr.md",
     "Kubernetes Service.md",
-    "Pod.md",
-    "Japanese/Adverb.md",
-    "Japanese/Sentence structure.md",
-    "Japanese/Particle No.md",
-    "Japanese/Desu (da) and imas (iru).md",
-    "Japanese/Particle Wa.md",
-    "Japanese/Kono and Kore.md",
-    "Japanese/Nouns and pronouns.md",
-    "Japanese/Particle Wo (o).md",
+    "Seperating policy from mechanism.md",
+    "Virtualization.md",
+    "Parity Bit.md",
+    "Baud Rate.md",
+    "Replication.md",
+    "ReplicaSets.md",
+    "Lamport logical clocks.md",
+    "Berkeley algorithm.md",
+    "Pasted image 20251001181906.png",
+    "Git objects.md",
+    "Git Log.md",
+    "Pasted image 20250930170546.png",
+    "Pasted image 20250930170537.png",
+    "Pasted image 20250930164143.png",
+    "Pasted image 20250930164057.png",
+    "Excalidraw",
+    "Untitled.canvas",
+    "Pasted image 20250926171539.png",
+    "Pasted image 20250926165933.png",
     "Japanese",
-    "Helm.md",
     "Templates",
     "desktop.ini"
   ]
