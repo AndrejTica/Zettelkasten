@@ -34,19 +34,6 @@ The cause of an error. For example a bad transmission medium might be a fault.
 ## fault types
 Fault tolerance means how well can we deal with faults when they happen.
 
-#### permanent faults
-meet its promises. 
-
-#### error
-An error is something that might lead to a failure. For example when sending some bits across the network, some packets are 
-expected to be damaged. 
-
-#### fault
-The cause of an error. For example a bad transmission medium might be a fault. 
-
-## fault types
-Fault tolerance means how well can we deal with faults when they happen.
-
 #### transient faults
 Occurs once and then disappears. If the operation is repeated, the fault goes away.
 
