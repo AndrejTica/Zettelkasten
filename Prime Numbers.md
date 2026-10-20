@@ -40,13 +40,13 @@ Two possibilities:
 Therefore, there are infinitely many prime numbers.
 
 ## Generalization 
-Using [[Congruence]] and Euclids proof we can also proof that there are infinitely many primes in the form 4n + 3 or 4n + 1 but not 4n + 2 because every number here is divisible by 2.
+Using [Congruence](Congruence.md) and Euclids proof we can also proof that there are infinitely many primes in the form 4n + 3 or 4n + 1 but not 4n + 2 because every number here is divisible by 2.
 
-This is related to [[Dirichlet's theorem]]
+This is related to [Dirichlet's theorem](Dirichlet%27s%20theorem.md)
 
 ### Fun facts:
 - There are infinitely many primes ending with 9, 1, 3 and 7.
-- There are special primes called [[Mersenne primes]]
+- There are special primes called [Mersenne primes](Mersenne%20primes.md)
 
 
 

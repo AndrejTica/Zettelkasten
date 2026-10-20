@@ -4,7 +4,7 @@ tags:
   - distrubutedsystems
   - networking
 ---
-Used to sync multiple clocks, as otherwise it can cause [[Clock synchronization problems|problems]]. 
+Used to sync multiple clocks, as otherwise it can cause [problems](Clock%20synchronization%20problems.md). 
 
 In praxis we have an NTP server that clients can contact. 
 Within, it keeps a score system called "Stratum" from 0 to 15. It tells how accurate the time is by comparing the distance to the reference clock. 0 is the most accurate while 16 is considered unsynchronized. So some NTP servers are "better" than others. Stratum 1 servers are called primary servers as they get their time directly from the reference clocks like an atomic clock. 
@@ -22,7 +22,7 @@ Then we will pass those values to a series of filters until down the end we are 
 That then feeds back at the start and forms a feedback loop. 
 
 ### Calculating offset and delay
-![[Pasted image 20250930170537.png]]
+![Pasted image 20250930170537.png](images/Pasted%20image%2020250930170537.png)
 
 $$
 \Large δ = (t_4 - t_1) - (t_3 - t_2)

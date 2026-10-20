@@ -17,5 +17,5 @@ Use CSRF tokens. This token is generated randomly by the backend and sent to the
 The backend also stores this token on the backend and compares it to a userID each time a request is performed.
 And if we are using HTTPS, then the request that contains the token also can't be stolen by an attacker with something like wireshark.
 
-Unlike [[cross-site scripting]], which exploits the trust a user has for a particular site, CSRF exploits the trust that a site has in a user's browser.
+Unlike [cross-site scripting](cross-site%20scripting.md), which exploits the trust a user has for a particular site, CSRF exploits the trust that a site has in a user's browser.
 

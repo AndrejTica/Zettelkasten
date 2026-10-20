@@ -15,7 +15,7 @@ Is it true that the result of this is a prime if and only if n is prime?
 - But if n is prime, then the result must be prime? NO, but the reverse is true, if the result is prime, then n is prime.
 
 ## Why are these numbers of interest?
-1. [[Perfect numbers]]
+1. [Perfect numbers](Perfect%20numbers.md)
 2. Last 17 primes discovered were all Mersenne primes
 
 ### References

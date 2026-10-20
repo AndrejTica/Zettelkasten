@@ -10,4 +10,4 @@ $$
 $$
 
 ### References
-[[Mathematical notation]]
+[Mathematical notation](Mathematical%20notation.md)

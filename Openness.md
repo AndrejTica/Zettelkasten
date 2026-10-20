@@ -5,7 +5,7 @@ tags:
 ---
 The main gist of openness in distributes systems are the usage of well-defined interfaces and protocols. 
 Benefits are:
-- Extendibility. New services or resources can be added without having to change the existing implementation. Similar as in the [[Open/Closed principle|open closed principle]] in software design. 
+- Extendibility. New services or resources can be added without having to change the existing implementation. Similar as in the [open closed principle](Open-Closed%20principle.md) in software design. 
 - Interoperability. An NFS client on linux can communicate with an NFS server on windows.
 - Portability. Applications written for one system can be moved to another without breaking changes.
 

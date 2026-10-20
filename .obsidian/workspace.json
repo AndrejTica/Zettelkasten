@@ -141,12 +141,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advice.md",
+                "file": "Aspect-oriented-programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Advice"
+              "title": "Aspect-oriented-programming"
             }
           },
           {
@@ -280,17 +280,17 @@
     "ReplicaSets.md",
     "Lamport logical clocks.md",
     "Berkeley algorithm.md",
-    "Pasted image 20251001181906.png",
+    "images/Pasted image 20251001181906.png",
     "Git objects.md",
     "Git Log.md",
-    "Pasted image 20250930170546.png",
-    "Pasted image 20250930170537.png",
-    "Pasted image 20250930164143.png",
-    "Pasted image 20250930164057.png",
+    "images/Pasted image 20250930170546.png",
+    "images/Pasted image 20250930170537.png",
+    "images/Pasted image 20250930164143.png",
+    "images/Pasted image 20250930164057.png",
     "Excalidraw",
     "Untitled.canvas",
-    "Pasted image 20250926171539.png",
-    "Pasted image 20250926165933.png",
+    "images/Pasted image 20250926171539.png",
+    "images/Pasted image 20250926165933.png",
     "Japanese",
     "Templates",
     "desktop.ini"

@@ -8,11 +8,11 @@ Also creates a hidden .git folder with following contents:
 
 - Head: points to the current branch
 - config: specific config for the repository 
-- objects/: stores file contents (commits, trees, blobs). See [[Git objects]]
+- objects/: stores file contents (commits, trees, blobs). See [Git objects](Git%20objects.md)
 - refs/: references to commits (branches, tags)
 - index: staging area file
 - info/: keeps a global exclude file for ignored patterns that you dont want to track in a .gitignore file. 
-- hooks/: Contains client side or server side [[Git hook scripts]]
+- hooks/: Contains client side or server side [Git hook scripts](Git%20hook%20scripts.md)
 - description: only used by the GitWeb program 
 - 
 

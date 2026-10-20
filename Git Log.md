@@ -15,7 +15,7 @@ shows a compact, colored commit history graph of all branches, with branch/tag n
 --all includes commits from every ref (all local branches, remote-tracking branches, etc.).
 
 
-![[Pasted image 20251001181906.png]]
+![Pasted image 20251001181906.png](images/Pasted%20image%2020251001181906.png)
 
 
 Handy add-ons:
@@ -28,4 +28,3 @@ Show remotes too: … --all --remotes.
 
 
 ### References
-

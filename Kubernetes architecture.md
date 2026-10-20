@@ -4,7 +4,7 @@ tags:
   - kubernetes
   - devops
 ---
-A kubernetes cluster consists of [[Control Plane|control plane]] plus set of [[Kubernetes Node|worker machines]].
+A kubernetes cluster consists of [control plane](Control%20Plane.md) plus set of [worker machines](Kubernetes%20Node.md).
 
 It can have different architecture variations:
 

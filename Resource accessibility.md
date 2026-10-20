@@ -3,7 +3,7 @@ date: 2025-09-07
 tags:
   - distrubutedsystems
 ---
-The main goal of a [[Distributed systems intro|distributed system]] is to make resources easily available to users. This could be anything from websites, printers, files, networks etc. [1, p. 20]
+The main goal of a [distributed system](Distributed%20systems%20intro.md) is to make resources easily available to users. This could be anything from websites, printers, files, networks etc. [1, p. 20]
 One reason might be economics, as its cheaper to share one printer amongst many users than each user having their own printer. 
 Users should successfully be able to interact with the system at any given time. 
 A distributed system is said to be accessible if a non-failing client can send a request to a non-failing node and always get a response. 

@@ -17,7 +17,7 @@ For example on cisco IOS we can show the time with the ```show clock``` command 
 ### Problems within multiple physical clocks
 When we have multiple processors and therefore multiple physical clocks, over time we get something called clock skew. This is because multiple clocks will drift apart over time due to various natural reasons. 
 
-Thats why its important so sync the clocks with protocols like [[NTP (Network time protocol)]]. 
+Thats why its important so sync the clocks with protocols like [NTP (Network time protocol)](NTP%20%28Network%20time%20protocol%29.md). 
 
 ### References
 

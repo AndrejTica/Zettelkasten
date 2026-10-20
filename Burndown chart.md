@@ -8,7 +8,7 @@ the vertical axis while the time is on the horizontal axis.
 Is is useful for predicting when all work will be be completed. 
 Its also useful for determining teams velocity.
 
-![alt text](Burn_down_chart.png "Burn down chart")
+![alt text](images/Burn_down_chart.png "Burn down chart")
 
 
 - If the actual line is above the ideal line, that means that we are running
@@ -24,8 +24,7 @@ work (points) until a deadline. It tries to predict if we are not the right
 track or not. The horizontal axis has the sprints, and the vertical has the
 points
 
-![alt text](Burn_up_chart.png "Burn up chart")
-
+![alt text](images/Burn_up_chart.png "Burn up chart")
 
 
 

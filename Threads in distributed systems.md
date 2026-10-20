@@ -5,7 +5,7 @@ tags:
   - operatingsystems
 ---
 ### Multithreaded clients 
-To establish high degree of [[Transparency]], we need to conceal long interprocess message propagation times. 
+To establish high degree of [Transparency](Transparency.md), we need to conceal long interprocess message propagation times. 
 For example, when fetching a HTML page, we can fetch the most important stuff for the user first, allow therefore some degree of usability while in the background we are fetching other components at the same time using threads. 
 
 Another technique is when we have replicated servers. A load balancer might forward different requests to the replicas and therefore achieve faster load times as one server is not overloaded. All this is possible only if the client can handle parallel streams of data aka can do threads. 
@@ -25,7 +25,7 @@ There are 3 basic ways in which we can construct a server:
 
 Here its meant that using threads are are allowed to afford using blocking sys calls as other threads can resume work. 
 
-[[Finite state machine]] is basically how python implements async/await on only one thread.
+[Finite state machine](Finite%20state%20machine.md) is basically how python implements async/await on only one thread.
 This works with nonblocking sys calls (they instantly return) and an event loop that checks the state of the operation periodically. 
 
 

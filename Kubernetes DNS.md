@@ -4,7 +4,7 @@ tags:
   - kubernetes
   - devops
 ---
-Has built in DNS server. It automatically creates DNS records for [[Kubernetes Service]] and [[Pod|pods]]. 
+Has built in DNS server. It automatically creates DNS records for [Kubernetes Service](Kubernetes%20Service.md) and [pods](Pod.md). 
 
 By default a clients Pod's DNS search list includes the Pod's own namespace and the clusters default domain. 
 

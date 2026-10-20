@@ -8,7 +8,7 @@ Two primary reasons for replication: Performance and reliability.
 - We have 3 copies of a file and every read/write operation is performed on each copy. We can safeguard ourselves against a single failing write operation by considering the value returned by the last two copies as the correct one. 
 - If one server fails, others keep running -> increased availability.
 ### Performance 
-When a server is replicated, work can be divided. Often we need a [[load balancer]] in front for that. 
+When a server is replicated, work can be divided. Often we need a [load balancer](load%20balancer.md) in front for that. 
 Replication in respect to geographical area can also increase performance as the server may be closer to the client. 
 
 ### Problems

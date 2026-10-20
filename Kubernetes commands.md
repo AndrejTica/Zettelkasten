@@ -19,7 +19,7 @@ Get details about a pod
 kubectl describe pod <pod-name>
 ```
 
-When describing a [[Kubernetes Service]] we can view its endpoint
+When describing a [Kubernetes Service](Kubernetes%20Service.md) we can view its endpoint
 ```
 kubectl describe service myService
 ```
@@ -29,7 +29,7 @@ Expose the port of a pod (creates a new service)
 kubectl expose pod <pod> --port=444 --name=frontend
 ```
 
-Port forward the exposed pod port to the local machine. This is not a proper way of exposing pods, its only for local testing. The real way would be to create a [[Kubernetes Service]].
+Port forward the exposed pod port to the local machine. This is not a proper way of exposing pods, its only for local testing. The real way would be to create a [Kubernetes Service](Kubernetes%20Service.md).
 ```
 kubectl port-forward <pod> 8080
 ```

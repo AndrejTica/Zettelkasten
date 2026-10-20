@@ -4,7 +4,7 @@ tags:
   - kubernetes
   - docker
 ---
-Bundles kubernetes resources like [[Kubernetes Service|Services]], ConfigMaps, Deployments etc into a single chart. It allows to parameterize configurations to customize deployments. It has versioning and can be reused. Supports rollbacks, upgrades, installs etc. 
+Bundles kubernetes resources like [Services](Kubernetes%20Service.md), ConfigMaps, Deployments etc into a single chart. It allows to parameterize configurations to customize deployments. It has versioning and can be reused. Supports rollbacks, upgrades, installs etc. 
 In essence it abstracts away a lot of fluff and we can deploy entire clusters with just one yaml file.  
 
 ## Terminology 

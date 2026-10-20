@@ -5,7 +5,7 @@ tags:
   - devops
 ---
 A pod contains one or more containers that share the same network IP, hostname and storage volumes.
-Pods are managed by higher level objects like [[Deployments|Deployments]], [[ReplicaSets|ReplicaSets]] etc..
+Pods are managed by higher level objects like [Deployments](Deployments.md), [ReplicaSets](ReplicaSets.md) etc..
 
 Sample file to define a pod:
 

@@ -17,7 +17,7 @@ d670460b4b4aece5915caf5c68d12f560a9fe3e4
 
 the -w flag says to not only give a key but also store the content. --stdin reads from stdin as input.
 
-The output is a 40 character checksum hash using [[SHA-1]] hash and also contains a part which is the header (d6)
+The output is a 40 character checksum hash using [SHA-1](SHA-1.md) hash and also contains a part which is the header (d6)
 
 Now we have a directory and file in the objects directory:
 

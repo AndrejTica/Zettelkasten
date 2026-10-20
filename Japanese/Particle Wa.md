@@ -19,13 +19,13 @@ kuruma wa akai desu.
 
 There is no equivalent translation for the wa in english, as in english to determine what the topic/subject is, we use word ordering. 
 
-For example: "Taro saw Noriko", if we change that to "Noriko saw Taro" we get a completely different meaning. In japanese: "Tarō **wa** Noriko **[[Particle Wo (o)|wo]]** mimashita." 
+For example: "Taro saw Noriko", if we change that to "Noriko saw Taro" we get a completely different meaning. In japanese: "Tarō **wa** Noriko **[wo](Particle%20Wo%20%28o%29.md)** mimashita." 
 Wa - defines the "topic" which is basically the person that performs action being described. 
-[[Wo]] pronounced "o" defines the object aka to whom or to what the action was done, so Noriko was the thing being seen. 
+[Wo](Particle%20Wo%20%28o%29.md) pronounced "o" defines the object aka to whom or to what the action was done, so Noriko was the thing being seen. 
 
-So we can change the [[Sentence structure|order]] to "Noriko wo Taro wa mimashita" and it would mean effectively the same thing. That being said, we would not use this sentence as its unnatural to place the topic after other elements. Certain orders are more natural than others.
+So we can change the [order](Sentence%20structure.md) to "Noriko wo Taro wa mimashita" and it would mean effectively the same thing. That being said, we would not use this sentence as its unnatural to place the topic after other elements. Certain orders are more natural than others.
 
-When speaking about the topic/subject they are two different things but we can treat it the same to keep thing simple. For subjects in japanese there is actually the "[[ga]]" particle.
+When speaking about the topic/subject they are two different things but we can treat it the same to keep thing simple. For subjects in japanese there is actually the "[ga](Particle%20Ga.md)" particle.
 
 
 

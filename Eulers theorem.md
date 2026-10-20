@@ -5,7 +5,7 @@ tags:
 ---
 Eulers theorem is a useful tool to:
 1. Solve congruences with large exponents
-2. Next to [Euclidean Algorithm](/Euclidean%20algorithm.md) its is also a way to calculate the
+2. Next to [Euclidean Algorithm](Euclidean%20algorithm.md) its is also a way to calculate the
    multiplicative inverse.
 
 $$
@@ -13,7 +13,7 @@ a^{\varphi(m)} \equiv 1 \pmod{m}
 \quad \text{if } \gcd(a,m)=1
 $$
 
-The Phi symbol stands for [Eulers Phi function](/Eulers%20phi%20function.md).
+The Phi symbol stands for [Eulers Phi function](Eulers%20phi%20function.md).
 
 ## Example how we can solve a congruence using Eulers theorem:
 
@@ -88,7 +88,7 @@ $$
 ## Special case: Fermat Little Theorem
 A special case of Eulers theorem is Fermat's little theorem.
 If is just the case when m is prime. In that case, the [Phi
-function](/Eulers%20phi%20function.md) result becomes m - 1, and therefore:
+function](Eulers%20phi%20function.md) result becomes m - 1, and therefore:
 
 $$
 a^{m-1} \equiv 1 \ mod \ m

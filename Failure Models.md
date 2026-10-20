@@ -32,6 +32,6 @@ The generals must decide as a group whether to attack or retreat; some may prefe
 The important thing is that all generals agree on a common decision, for a half-hearted attack by a few generals would become a rout, 
 and would be worse than either a coordinated attack or a coordinated retreat.
 
-Here, we often need an agreement how to proceed within the processes. We can do this if we make the assumption that [[k fault tolerance]] is 
+Here, we often need an agreement how to proceed within the processes. We can do this if we make the assumption that [k fault tolerance](Fault%20tolerance.md#k-fault-tolerance) is 
 2k + 1. 
 

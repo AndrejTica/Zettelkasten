@@ -3,7 +3,7 @@ date: 2025-10-05
 tags:
   - distrubutedsystems
 ---
-Even if we sync clocks with [[NTP (Network time protocol)]], we can still end up errors in causality by receiving and sending clocks not being the same.
+Even if we sync clocks with [NTP (Network time protocol)](NTP%20%28Network%20time%20protocol%29.md), we can still end up errors in causality by receiving and sending clocks not being the same.
 We have seen that it might be sufficient that each node agrees on a time. This time does not need to reflect the actual real time. As seen in the make example, make only needs to know which file is oldest. 
 So if we extend this further, often only the order of actions is sufficient. So some algorithms only concern themselves with the correct ordering. For these algorithms, the convention is to speak of logical clocks.
 

@@ -4,7 +4,7 @@ tags:
   - kubernetes
   - docker
 ---
-Enables communication between different microservices. For example our app can have a group of [[Pod|pods]] running various sections like backend or frontend. It is services that enable the connectivity between these group of pods.
+Enables communication between different microservices. For example our app can have a group of [pods](Pod.md) running various sections like backend or frontend. It is services that enable the connectivity between these group of pods.
 We can create a service, tell it to listen to a port on the node that runs the pod, and whatever comes through that port, it remaps it to the pod network. This type of service is known as "Node pod service". We use yaml files to define the service. 
 
 ## Service types:

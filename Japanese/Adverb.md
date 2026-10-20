@@ -8,6 +8,6 @@ An adverb describes a verb, an adjective, or another adverb.
 - They live nearby (Where do they live? Nearby)
 - Its very hot today (How hot? Very)
 
-The relation to adjectives is that adjectives describe only [[Nouns and pronouns|Nouns]]. While adverbs describe verbs, adjectives, or other adverbs.
+The relation to adjectives is that adjectives describe only [Nouns](Nouns%20and%20pronouns.md). While adverbs describe verbs, adjectives, or other adverbs.
 
 ## References
